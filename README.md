@@ -1,0 +1,1 @@
+prvni zpráva
