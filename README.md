@@ -8,7 +8,7 @@ druhá zpráva
 testbranch
 .
 .
-merge conflict main
+test branch
 =======
 1 d
 2 e
