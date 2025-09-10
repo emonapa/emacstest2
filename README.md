@@ -1,1 +1,2 @@
 prvni zpráva
+druhá zpráva
