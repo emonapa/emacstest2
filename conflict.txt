@@ -1,12 +1,8 @@
 TITLE
-intro line
+Nove intro :)
 
-SECTION
 keep me
-<<<<<<< variant A
 MAIN version + oba?
->>>>>>> variant B
 TEST version
 I WAS EDITED ON TEST + oba?
-======= end
 end
