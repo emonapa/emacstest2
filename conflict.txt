@@ -3,5 +3,10 @@ intro line
 
 SECTION
 keep me
-MAIN version
+<<<<<<< variant A
+MAIN version + oba?
+>>>>>>> variant B
+TEST version
+I WAS EDITED ON TEST + oba?
+======= end
 end
