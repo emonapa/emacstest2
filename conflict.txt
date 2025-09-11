@@ -3,6 +3,5 @@ intro line
 
 SECTION
 keep me
-change me
-delete me
+MAIN version
 end
