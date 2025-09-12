@@ -5,6 +5,7 @@ Title IRONTEST
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 abc123def
 xyz123
@@ -13,5 +14,10 @@ xyz123
 abc123def
 >>>>>>> 8f07bdf (rebase test)
 >>>>>>> c0cfdd0 (rebase test)
+=======
+abc123def
+xyz123
+>>>>>>> 833267d (rebase xyz)
+>>>>>>> 93f5fc4 (rebase xyz)
 .
 changed
