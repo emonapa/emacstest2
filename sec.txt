@@ -1,5 +1,17 @@
 Title IRONMAIN
 Title IRONTEST
 .
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+abc123def
+xyz123
+>>>>>>> 833267d (rebase xyz)
+=======
+abc123def
+>>>>>>> 8f07bdf (rebase test)
+>>>>>>> c0cfdd0 (rebase test)
 .
 changed
